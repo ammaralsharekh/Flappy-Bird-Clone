@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: cf9857103c0d093499b41ad42e8fd489
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: images-sd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 446
+        width: 368
+        height: 576
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 978
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 978
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_3
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 978
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 987
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_6
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 987
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_7
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 980
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 980
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 949
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_12
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 612
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_13
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 903
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_15
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 903
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 941
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 737
+        width: 368
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_19
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 612
+        width: 368
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 547
+        width: 184
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_21
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 549
+        width: 178
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 479
+        width: 104
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_23
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 479
+        width: 104
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_24
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 485
+        width: 320
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_25
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 467
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_26
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 469
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: images-sd_23
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 875
+        width: 112
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
