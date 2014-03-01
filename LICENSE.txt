@@ -18,3 +18,6 @@ Dong Nguyen or subsidiaries.
 Therefore you may not merge, publish, distribute, sublicense and/or sell the
 provided image, audio and video files of this software without permission of
 Dong Nguyen or subsidiaries.
+
+04B_19__.TTF font also is not open source for more information please check below link :-
+http://www.dafont.com/04b-19.font
